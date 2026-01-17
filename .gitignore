@@ -1,0 +1,12 @@
+# Created: 2026-01-17 00:00:00
+# Node
+node_modules/
+package-lock.json
+
+# Claude temp files
+tmpclaude-*
+.claude/
+nul
+
+# Test files
+test_*.js
